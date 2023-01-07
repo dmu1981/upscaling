@@ -1,0 +1,4 @@
+train/
+*.zip
+gan.pt
+*.png
